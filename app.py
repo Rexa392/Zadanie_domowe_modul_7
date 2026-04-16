@@ -238,7 +238,8 @@ if st.session_state.get("cluster_found", False) and st.session_state["last_searc
 
     # Predykcja klastra
     cluster_id = model.predict(person_df)[0]
-    cluster_data = cluster_info[str(cluster_id)]
+    cluster_key = f"Cluster {cluster_id}"
+    cluster_data = cluster_info[cluster_key]
 
     # Filtruj dane dla tego klastra
     cluster_df = all_data[all_data["Cluster"] == cluster_id]
