@@ -1,10 +1,12 @@
-# import json
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import numpy as np
+import json
+import joblib
+from sklearn.preprocessing import LabelEncoder
 
 # ===== KONFIGURACJA =====
 MODEL_NAME = "welcome_survey_clustering_pipeline_v2"
@@ -106,7 +108,7 @@ st.markdown(
 
 @st.cache_resource
 def get_model():
-    return load_model(MODEL_NAME)
+    return joblib.load(MODEL_NAME)
 
 
 @st.cache_data
