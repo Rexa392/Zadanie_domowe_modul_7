@@ -1,10 +1,9 @@
-import json
+# import json
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-from pycaret.clustering import load_model, predict_model
 import numpy as np
 
 # ===== KONFIGURACJA =====
