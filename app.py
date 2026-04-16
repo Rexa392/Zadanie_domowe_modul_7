@@ -9,7 +9,7 @@ import joblib
 from sklearn.preprocessing import LabelEncoder
 
 # ===== KONFIGURACJA =====
-MODEL_NAME = "welcome_survey_clustering_pipeline_v2"
+MODEL_NAME = "welcome_survey_clustering_pipeline_v2.pkl"
 DATA = "welcome_survey_extended_1.csv"
 CLUSTER_NAMES = "welcome_survey_cluster_names_and_descriptions_v1.json"
 
@@ -121,8 +121,8 @@ def get_cluster_info():
 def get_all_data():
     df = pd.read_csv(DATA, sep=";")
     model = get_model()
-    df_with_clusters = predict_model(model, data=df)
-    return df_with_clusters
+    df["Cluster"] = model.predict(df)
+    return df
 
 
 def get_color_palette():
@@ -237,9 +237,8 @@ if st.session_state.get("cluster_found", False) and st.session_state["last_searc
     )
 
     # Predykcja klastra
-    predicted = predict_model(model, data=person_df)
-    cluster_id = predicted["Cluster"].values[0]
-    cluster_data = cluster_info[cluster_id]
+    cluster_id = model.predict(person_df)[0]
+    cluster_data = cluster_info[str(cluster_id)]
 
     # Filtruj dane dla tego klastra
     cluster_df = all_data[all_data["Cluster"] == cluster_id]
