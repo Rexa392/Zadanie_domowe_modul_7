@@ -1,0 +1,330 @@
+age;edu_level;fav_animals;fav_place;gender
+<18;Podstawowe;Brak ulubionych;;Kobieta
+25-34;Średnie;Psy;Nad wodą;Mężczyzna
+45-54;Wyższe;Psy;W lesie;Mężczyzna
+35-44;Średnie;Koty;W górach;Mężczyzna
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna
+25-34;Wyższe;Psy;W lesie;Mężczyzna
+25-34;Wyższe;Koty;W górach;Mężczyzna
+25-34;Wyższe;Brak ulubionych;W górach;Mężczyzna
+45-54;Wyższe;Psy;W górach;Kobieta
+18-24;Średnie;Koty;W górach;Mężczyzna
+35-44;Wyższe;Brak ulubionych;W górach;Mężczyzna
+25-34;Wyższe;Psy;W lesie;Kobieta
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna
+35-44;Średnie;Inne;W górach;Mężczyzna
+45-54;Wyższe;Inne;Nad wodą;Mężczyzna
+35-44;Średnie;Koty;Nad wodą;Mężczyzna
+>=65;Wyższe;Brak ulubionych;;Mężczyzna
+45-54;Wyższe;Psy;W górach;Mężczyzna
+35-44;Wyższe;Koty;;Mężczyzna
+45-54;Wyższe;Koty i Psy;Nad wodą;Kobieta
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna
+>=65;Wyższe;Brak ulubionych;W lesie;Kobieta
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna
+45-54;Średnie;Psy;Nad wodą;Mężczyzna
+45-54;Wyższe;Psy;W lesie;Mężczyzna
+35-44;Wyższe;Koty;W górach;Mężczyzna
+35-44;Wyższe;Koty;W górach;Mężczyzna
+25-34;Wyższe;Koty;W górach;Kobieta
+25-34;Wyższe;Koty;W górach;Mężczyzna
+55-64;Wyższe;Inne;;Mężczyzna
+35-44;Średnie;Psy;Nad wodą;Kobieta
+35-44;Wyższe;Koty;Nad wodą;Mężczyzna
+25-34;Średnie;Inne;Inne;Mężczyzna
+45-54;Średnie;Koty;Inne;Mężczyzna
+25-34;Średnie;Psy;Nad wodą;Mężczyzna
+25-34;Średnie;Inne;W górach;Mężczyzna
+35-44;Wyższe;Brak ulubionych;Nad wodą;Mężczyzna
+45-54;Średnie;Psy;W górach;Mężczyzna
+25-34;Wyższe;Psy;W górach;Mężczyzna
+45-54;Wyższe;Koty;W lesie;Mężczyzna
+35-44;Wyższe;Psy;W górach;
+35-44;Wyższe;Brak ulubionych;W lesie;Mężczyzna
+35-44;Średnie;Psy;Nad wodą;Kobieta
+45-54;Wyższe;Psy;Nad wodą;Kobieta
+45-54;Średnie;Psy;Nad wodą;Mężczyzna
+35-44;Wyższe;Inne;W górach;Mężczyzna
+45-54;Wyższe;Psy;Nad wodą;Kobieta
+unknown;Wyższe;Brak ulubionych;;
+>=65;Wyższe;Brak ulubionych;W górach;Kobieta
+45-54;Wyższe;Brak ulubionych;W górach;Kobieta
+45-54;Wyższe;Inne;W lesie;Kobieta
+25-34;Wyższe;Psy;Inne;Kobieta
+18-24;Wyższe;Brak ulubionych;W górach;Mężczyzna
+35-44;Wyższe;Psy;W lesie;Mężczyzna
+25-34;Średnie;Koty;W lesie;Mężczyzna
+55-64;Wyższe;Psy;W górach;Mężczyzna
+35-44;Wyższe;Psy;W górach;Mężczyzna
+35-44;Wyższe;Psy;W lesie;Mężczyzna
+35-44;Wyższe;Inne;Nad wodą;Mężczyzna
+45-54;Wyższe;Psy;W górach;Mężczyzna
+35-44;Wyższe;Inne;Nad wodą;Mężczyzna
+35-44;Średnie;Brak ulubionych;;Kobieta
+35-44;Wyższe;Koty i Psy;W górach;Kobieta
+35-44;Wyższe;Koty;W górach;Mężczyzna
+>=65;Wyższe;Brak ulubionych;W górach;Mężczyzna
+45-54;Wyższe;Inne;Inne;Mężczyzna
+45-54;Wyższe;Psy;Nad wodą;Mężczyzna
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna
+25-34;Wyższe;Psy;Nad wodą;Kobieta
+35-44;Wyższe;Inne;Nad wodą;Kobieta
+55-64;Wyższe;Psy;Nad wodą;Mężczyzna
+55-64;Wyższe;Psy;Nad wodą;Mężczyzna
+45-54;Wyższe;Koty i Psy;;Mężczyzna
+35-44;Wyższe;Psy;W górach;Mężczyzna
+35-44;Wyższe;Psy;W lesie;Kobieta
+55-64;Wyższe;Koty i Psy;Nad wodą;Mężczyzna
+35-44;Wyższe;Psy;;Kobieta
+25-34;Wyższe;Psy;W lesie;Kobieta
+35-44;Wyższe;Psy;;Mężczyzna
+25-34;Wyższe;Inne;W górach;Mężczyzna
+55-64;Wyższe;Psy;;Mężczyzna
+18-24;Średnie;Psy;W górach;Mężczyzna
+35-44;Wyższe;Psy;Nad wodą;Kobieta
+45-54;Wyższe;Psy;;Mężczyzna
+35-44;Wyższe;Inne;Inne;Kobieta
+45-54;Wyższe;Psy;Nad wodą;Kobieta
+35-44;Wyższe;Brak ulubionych;W górach;Mężczyzna
+45-54;Średnie;Psy;W górach;Mężczyzna
+25-34;Wyższe;Psy;Nad wodą;Mężczyzna
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna
+25-34;Wyższe;Inne;W lesie;Mężczyzna
+25-34;Średnie;Psy;W górach;Mężczyzna
+45-54;Średnie;Inne;W lesie;Mężczyzna
+unknown;Wyższe;Psy;Nad wodą;Kobieta
+35-44;Wyższe;Psy;W lesie;Mężczyzna
+45-54;Wyższe;Psy;W lesie;Mężczyzna
+55-64;Wyższe;Psy;W lesie;Mężczyzna
+35-44;Średnie;Psy;W lesie;Kobieta
+35-44;Wyższe;Psy;;Mężczyzna
+35-44;Wyższe;Psy;Nad wodą;Kobieta
+35-44;Wyższe;Brak ulubionych;Nad wodą;Mężczyzna
+35-44;Wyższe;Brak ulubionych;;Mężczyzna
+45-54;Średnie;Inne;Inne;Mężczyzna
+45-54;Średnie;Brak ulubionych;W górach;Mężczyzna
+55-64;Wyższe;Psy;Nad wodą;Mężczyzna
+35-44;Średnie;Psy;W górach;Mężczyzna
+35-44;Wyższe;Koty;W górach;Kobieta
+45-54;Wyższe;Psy;Nad wodą;Kobieta
+25-34;Średnie;Koty;W lesie;Mężczyzna
+45-54;Wyższe;Psy;Nad wodą;Mężczyzna
+45-54;Wyższe;Psy;Nad wodą;Mężczyzna
+35-44;Wyższe;Koty;W górach;Mężczyzna
+45-54;Wyższe;Psy;Inne;Mężczyzna
+45-54;Wyższe;Psy;W lesie;Mężczyzna
+25-34;Wyższe;Koty;;Mężczyzna
+45-54;Wyższe;Brak ulubionych;Nad wodą;Mężczyzna
+45-54;Wyższe;Inne;W lesie;Mężczyzna
+45-54;Wyższe;Psy;W lesie;Mężczyzna
+25-34;Wyższe;Psy;W górach;Mężczyzna
+45-54;Średnie;Inne;W górach;Mężczyzna
+18-24;Średnie;Psy;Nad wodą;Mężczyzna
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna
+45-54;Wyższe;Psy;W lesie;Mężczyzna
+>=65;Wyższe;Psy;Nad wodą;Mężczyzna
+35-44;Wyższe;Koty;W górach;Mężczyzna
+35-44;Wyższe;Psy;Inne;Mężczyzna
+45-54;Wyższe;Psy;;Kobieta
+45-54;Wyższe;Inne;Nad wodą;Mężczyzna
+35-44;Wyższe;Brak ulubionych;W lesie;Mężczyzna
+18-24;Średnie;Psy;W górach;Mężczyzna
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna
+45-54;Wyższe;Koty;W lesie;Mężczyzna
+35-44;Wyższe;Inne;W górach;Mężczyzna
+55-64;Wyższe;Psy;Nad wodą;Mężczyzna
+35-44;Wyższe;Koty;W górach;Mężczyzna
+35-44;Wyższe;Psy;W górach;Mężczyzna
+45-54;Wyższe;Psy;W lesie;Kobieta
+35-44;Wyższe;Psy;Nad wodą;Kobieta
+18-24;Średnie;Inne;W górach;Mężczyzna
+45-54;Średnie;Koty;W lesie;Mężczyzna
+25-34;Wyższe;Psy;;Mężczyzna
+45-54;Wyższe;Inne;W górach;Mężczyzna
+35-44;Średnie;Koty;W górach;Mężczyzna
+45-54;Wyższe;Psy;W lesie;Kobieta
+45-54;Wyższe;Psy;Nad wodą;Mężczyzna
+25-34;Wyższe;Psy;W lesie;Mężczyzna
+25-34;Wyższe;Psy;Nad wodą;Mężczyzna
+45-54;Wyższe;Koty;;Mężczyzna
+35-44;Wyższe;Brak ulubionych;Nad wodą;Kobieta
+35-44;Średnie;Psy;W lesie;Mężczyzna
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna
+45-54;Wyższe;Inne;W górach;Mężczyzna
+25-34;Wyższe;Koty;;Mężczyzna
+25-34;Wyższe;Psy;Nad wodą;Kobieta
+25-34;Średnie;Psy;W górach;Mężczyzna
+55-64;Wyższe;Inne;;Mężczyzna
+55-64;Wyższe;Koty;Nad wodą;Mężczyzna
+35-44;Wyższe;Koty i Psy;W górach;Kobieta
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna
+25-34;Wyższe;Psy;W górach;Kobieta
+45-54;Wyższe;Brak ulubionych;W lesie;Mężczyzna
+18-24;Średnie;Koty;W górach;Kobieta
+25-34;Wyższe;Psy;W górach;Mężczyzna
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna
+25-34;Średnie;Koty;;Mężczyzna
+25-34;Wyższe;Psy;W górach;Kobieta
+35-44;Wyższe;Psy;W górach;Mężczyzna
+45-54;Wyższe;Koty;W lesie;Kobieta
+35-44;Wyższe;Psy;W górach;Kobieta
+25-34;Średnie;Brak ulubionych;W górach;Kobieta
+45-54;Wyższe;Koty;W lesie;Mężczyzna
+35-44;Wyższe;Psy;W górach;Mężczyzna
+35-44;Wyższe;Psy;Nad wodą;Kobieta
+18-24;Średnie;Koty;W lesie;Mężczyzna
+55-64;Wyższe;Psy;W lesie;Mężczyzna
+45-54;Wyższe;Psy;W górach;Mężczyzna
+45-54;Wyższe;Psy;W górach;Mężczyzna
+45-54;Wyższe;Psy;Nad wodą;Mężczyzna
+55-64;Wyższe;Brak ulubionych;W lesie;Kobieta
+35-44;Średnie;Inne;Nad wodą;Mężczyzna
+35-44;Wyższe;Psy;W górach;Mężczyzna
+35-44;Wyższe;Inne;W górach;Mężczyzna
+25-34;Wyższe;Inne;W lesie;Mężczyzna
+45-54;Średnie;Koty;;Kobieta
+45-54;Wyższe;Koty;W górach;Mężczyzna
+25-34;Wyższe;Psy;W lesie;Mężczyzna
+45-54;Wyższe;Koty;;Kobieta
+18-24;Wyższe;Inne;;Mężczyzna
+45-54;Wyższe;Psy;;Mężczyzna
+35-44;Średnie;Psy;Nad wodą;Mężczyzna
+35-44;Wyższe;Psy;W górach;Mężczyzna
+35-44;Wyższe;Inne;Nad wodą;Kobieta
+45-54;Wyższe;Koty;Nad wodą;Mężczyzna
+35-44;Wyższe;Psy;W górach;Kobieta
+35-44;Wyższe;Psy;W lesie;Mężczyzna
+55-64;Wyższe;Koty;W lesie;Mężczyzna
+>=65;Wyższe;Psy;Nad wodą;Mężczyzna
+35-44;Wyższe;Koty;Nad wodą;Kobieta
+35-44;Wyższe;Psy;;Mężczyzna
+35-44;Wyższe;Psy;W lesie;Mężczyzna
+45-54;Wyższe;Psy;W górach;Mężczyzna
+18-24;Średnie;Psy;Nad wodą;Mężczyzna
+45-54;Średnie;Psy;Nad wodą;Mężczyzna
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna
+45-54;Średnie;Brak ulubionych;W górach;Mężczyzna
+>=65;Średnie;Psy;;Mężczyzna
+45-54;Wyższe;Psy;Nad wodą;Mężczyzna
+45-54;Wyższe;Psy;W górach;Mężczyzna
+35-44;Wyższe;Brak ulubionych;Nad wodą;Mężczyzna
+45-54;Wyższe;Psy;W lesie;Mężczyzna
+45-54;Wyższe;Psy;;Kobieta
+45-54;Wyższe;Koty i Psy;Nad wodą;Mężczyzna
+45-54;Wyższe;Koty;W górach;Mężczyzna
+45-54;Wyższe;Psy;W lesie;Mężczyzna
+45-54;Wyższe;Psy;Nad wodą;Kobieta
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna
+45-54;Wyższe;Inne;Nad wodą;Kobieta
+45-54;Wyższe;Psy;W górach;Mężczyzna
+55-64;Wyższe;Inne;;Mężczyzna
+45-54;Wyższe;Psy;W górach;Kobieta
+25-34;Wyższe;Koty;Nad wodą;Mężczyzna
+45-54;Wyższe;Psy;W górach;Kobieta
+35-44;Wyższe;Inne;;Kobieta
+35-44;Wyższe;Koty;Inne;Kobieta
+45-54;Wyższe;Inne;W lesie;Mężczyzna
+25-34;Wyższe;Psy;W górach;Mężczyzna
+35-44;Wyższe;Brak ulubionych;W górach;Mężczyzna
+45-54;Wyższe;Koty;Nad wodą;Mężczyzna
+35-44;Wyższe;Świnki morskie;Nad morzem;Mężczyzna
+25-34;Średnie;Żółwie;W parkach;Kobieta
+18-24;Wyższe;Konie;W górach;Mężczyzna
+25-34;Wyższe;Rybki;;Mężczyzna
+35-44;Wyższe;Konie;W lesie;Mężczyzna
+>=65;Wyższe;Koty i Psy;Nad morzem;Mężczyzna
+<18;Wyższe;Koty;Plaża;Mężczyzna
+45-54;Wyższe;Papugi;W parkach;Mężczyzna
+45-54;Wyższe;Żółwie;W mieście;Mężczyzna
+35-44;Średnie;Koty;W górach;Mężczyzna
+55-64;Wyższe;Żółwie;Pustynia;Agent AI
+45-54;Wyższe;Koty i Psy;Pustynia;Mężczyzna
+35-44;Średnie;Psy;;Mężczyzna
+35-44;Wyższe;Świnki morskie;W parkach;Kobieta
+45-54;Średnie;Papugi;Na wsi;Kobieta
+35-44;Średnie;Papugi;W parkach;Kobieta
+35-44;Wyższe;Inne;Nad morzem;Agent AI
+45-54;Wyższe;Papugi;Na wsi;Mężczyzna
+45-54;Średnie;Konie;Na wsi;Mężczyzna
+35-44;Wyższe;Koty i Psy;Jaskinie;Mężczyzna
+55-64;Wyższe;Inne;W górach;Kobieta
+35-44;Średnie;Konie;Inne;Kobieta
+35-44;Wyższe;Konie;Nad wodą;Mężczyzna
+45-54;Podstawowe;Króliki;W mieście;Mężczyzna
+35-44;Wyższe;Inne;W parkach;Agent AI
+35-44;Wyższe;Króliki;Nad wodą;Mężczyzna
+25-34;Wyższe;Inne;Nad wodą;Agent AI
+25-34;Wyższe;Konie;;Mężczyzna
+45-54;Wyższe;Koty;Plaża;Agent AI
+25-34;Wyższe;Świnki morskie;Nad wodą;Kobieta
+35-44;Wyższe;Rybki;Nad wodą;Mężczyzna
+35-44;Wyższe;Inne;Jaskinie;Mężczyzna
+45-54;Wyższe;Brak ulubionych;Inne;Agent AI
+35-44;Wyższe;Żółwie;Pustynia;Mężczyzna
+55-64;Wyższe;Inne;Plaża;Agent AI
+35-44;Wyższe;Psy;;Kobieta
+45-54;Wyższe;Króliki;W lesie;Kobieta
+45-54;Wyższe;Żółwie;Inne;Mężczyzna
+25-34;Wyższe;Brak ulubionych;Pustynia;Kobieta
+<18;Średnie;Koty;W lesie;Kobieta
+25-34;Wyższe;Psy;Inne;Mężczyzna
+45-54;Wyższe;Psy;Jaskinie;Mężczyzna
+25-34;Wyższe;Rybki;W lesie;Kobieta
+45-54;Wyższe;Psy;Nad wodą;Mężczyzna
+45-54;Wyższe;Inne;Nad wodą;Agent AI
+35-44;Wyższe;Rybki;Pustynia;Agent AI
+35-44;Wyższe;Inne;Inne;Mężczyzna
+35-44;Wyższe;Inne;Pustynia;Mężczyzna
+45-54;Wyższe;Żółwie;W mieście;Mężczyzna
+25-34;Wyższe;Chomiki;Nad wodą;Mężczyzna
+45-54;Wyższe;Chomiki;W lesie;Mężczyzna
+35-44;Średnie;Papugi;Inne;Kobieta
+45-54;Wyższe;Konie;W górach;Mężczyzna
+35-44;Średnie;Króliki;W mieście;Kobieta
+18-24;Średnie;Rybki;Jaskinie;Mężczyzna
+35-44;Wyższe;Konie;Na wsi;Mężczyzna
+18-24;Wyższe;Inne;Inne;Mężczyzna
+55-64;Wyższe;Inne;W lesie;Mężczyzna
+25-34;Średnie;Koty i Psy;;Mężczyzna
+45-54;Średnie;Chomiki;W górach;Mężczyzna
+25-34;Średnie;Koty i Psy;Na wsi;Kobieta
+35-44;Wyższe;Inne;W lesie;Kobieta
+<18;Średnie;Koty i Psy;;Mężczyzna
+55-64;Średnie;Chomiki;Nad morzem;Mężczyzna
+25-34;Wyższe;Papugi;;Agent AI
+45-54;Wyższe;Chomiki;Plaża;Mężczyzna
+35-44;Wyższe;Żółwie;W górach;Mężczyzna
+35-44;Wyższe;Żółwie;W lesie;Kobieta
+35-44;Wyższe;Koty i Psy;Nad wodą;Agent AI
+45-54;Średnie;Konie;W górach;Mężczyzna
+35-44;Wyższe;Chomiki;Plaża;Kobieta
+35-44;Wyższe;Papugi;Nad morzem;Mężczyzna
+55-64;Średnie;Króliki;Pustynia;Mężczyzna
+35-44;Wyższe;Inne;Inne;Mężczyzna
+45-54;Wyższe;Koty i Psy;Na wsi;Kobieta
+45-54;Średnie;Psy;Inne;Kobieta
+35-44;Wyższe;Psy;;Agent AI
+45-54;Wyższe;Konie;Inne;Kobieta
+45-54;Wyższe;Inne;Inne;Kobieta
+45-54;Wyższe;Króliki;Nad morzem;Mężczyzna
+18-24;Wyższe;Koty i Psy;Jaskinie;Kobieta
+55-64;Wyższe;Chomiki;W mieście;Mężczyzna
+45-54;Średnie;Koty;W górach;Mężczyzna
+25-34;Wyższe;Psy;Nad wodą;Agent AI
+>=65;Wyższe;Rybki;W lesie;Kobieta
+35-44;Wyższe;Chomiki;W lesie;Mężczyzna
+35-44;Wyższe;Brak ulubionych;Pustynia;Kobieta
+45-54;Wyższe;Króliki;Nad wodą;Mężczyzna
+35-44;Wyższe;Chomiki;;Agent AI
+18-24;Wyższe;Rybki;Nad morzem;Mężczyzna
+45-54;Średnie;Króliki;Nad wodą;Kobieta
+35-44;Wyższe;Króliki;Plaża;Agent AI
+45-54;Wyższe;Konie;Plaża;Mężczyzna
+35-44;Wyższe;Koty;Nad morzem;Agent AI
+>=65;Wyższe;Psy;Nad morzem;Kobieta
+45-54;Średnie;Inne;W górach;Mężczyzna
+35-44;Wyższe;Chomiki;W górach;Kobieta
+25-34;Wyższe;Rybki;Nad wodą;Mężczyzna
+45-54;Wyższe;Świnki morskie;Nad wodą;Mężczyzna
+35-44;Wyższe;Papugi;Nad wodą;Mężczyzna
