@@ -327,6 +327,7 @@ if st.session_state.get("cluster_found", False) and st.session_state["last_searc
             # Przygotuj DataFrame z nazwami
             chart_data = []
             for cluster_num in all_clusters.index:
+                cluster_key = f"Cluster {cluster_num}"
                 cluster_name = cluster_info[cluster_num]["name"]
                 cluster_emoji = cluster_info[cluster_num]["icon"]
 
