@@ -619,18 +619,41 @@ if st.session_state.get("cluster_found", False) and st.session_state["last_searc
                 st.info("Brak danych do wyświetlenia")
 
 else:
-    # Strona powitalna
-    st.markdown(
-        """
-    <div style='text-align: center; padding: 50px;'>
-        <h2 style='font-size: 2.5em; color: #EC4899;'>👈 Zacznij od wypełnienia formularza</h2>
-        <p style='font-size: 1.5em; color: #C084FC; margin-top: 20px;'>
-            Odpowiedz na kilka pytań i kliknij przycisk, a my znajdziemy Twoją idealną grupę! ✨
-        </p>
-    </div>
-    """,
-        unsafe_allow_html=True,
-    )
+    st.markdown("<br>", unsafe_allow_html=True)
+
+    # Centrowanie
+    col1, col2, col3 = st.columns([1, 3, 1])
+
+    with col2:
+        st.markdown("# 🌟 Znajdź Swoją Grupę! 🌟")
+        st.markdown("### Odkryj ludzi o podobnych zainteresowaniach ✨")
+
+        st.markdown("---")
+
+        st.success("👈 **Zacznij od wypełnienia formularza po lewej stronie**")
+
+        st.markdown(
+            """
+        <div style='text-align: center; padding: 20px;'>
+            <p style='font-size: 1.2em;'>
+                Odpowiedz na kilka pytań i kliknij przycisk,<br>
+                a my znajdziemy Twoją idealną grupę! 🎯
+            </p>
+        </div>
+        """,
+            unsafe_allow_html=True,
+        )
+
+        st.markdown("---")
+
+        # Krok po kroku
+        c1, c2, c3 = st.columns(3)
+        with c1:
+            st.info("**1️⃣ Wypełnij**\nformularz")
+        with c2:
+            st.warning("**2️⃣ Kliknij**\nprzycisk")
+        with c3:
+            st.success("**3️⃣ Odkryj**\ngrupę!")
 
 # Footer
 st.markdown("---")
