@@ -8,6 +8,25 @@ import json
 import joblib
 from sklearn.preprocessing import LabelEncoder
 
+# Ukryj menu Streamlit i przyciski
+st.set_page_config(
+    page_title="Analiza Klastrów",
+    page_icon="🎯",
+    layout="wide",
+    menu_items={"Get Help": None, "Report a bug": None, "About": None},
+)
+
+# Ukryj "Made with Streamlit" i przycisk GitHub
+hide_streamlit_style = """
+    <style>
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+    header {visibility: hidden;}
+    .stDeployButton {display:none;}
+    </style>
+"""
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
+
 # ===== KONFIGURACJA =====
 MODEL_NAME = "welcome_survey_clustering_pipeline_v2.pkl"
 DATA = "welcome_survey_extended_1.csv"
